@@ -9,10 +9,10 @@ https://github.com/weiaicunzai/pytorch-cifar100
  - 预测的trick：同一张图片多个尺度预测，选取总和最高的那一类作为预测标签，详情可参考test.py.
  - 训练使用的模型：resnext101_32x8d
  - baseline支持模型：resnet50， resnet101， resnext50_32x4d， resnext101-32x8d
- - 预训练模型下载网址:
-resnet50: https://download.pytorch.org/models/resnet50-19c8e357.pth
-resnet101: https://download.pytorch.org/models/resnet101-5d3b4d8f.pth
-resnext50_32x4d: 'https://download.pytorch.org/models/resnext50_32x4d-7cdf4587.pth
-resnext101_32x8d: 'https://download.pytorch.org/models/resnext101_32x8d-8ba56ff5.pth
+ - 预训练模型下载网址:  
+ resnet50: https://download.pytorch.org/models/resnet50-19c8e357.pth  
+ resnet101: https://download.pytorch.org/models/resnet101-5d3b4d8f.pth  
+ resnext50_32x4d: 'https://download.pytorch.org/models/resnext50_32x4d-7cdf4587.pth  
+ resnext101_32x8d: 'https://download.pytorch.org/models/resnext101_32x8d-8ba56ff5.pth  
  
 
