@@ -10,7 +10,7 @@ https://github.com/weiaicunzai/pytorch-cifar100
  - 训练使用的模型：resnext101_32x8d
  - baseline支持模型：resnet50， resnet101， resnext50_32x4d， resnext101-32x8d
  - 预训练模型下载网址:
--resnet50: https://download.pytorch.org/models/resnet50-19c8e357.pth
+ - resnet50: https://download.pytorch.org/models/resnet50-19c8e357.pth
 -resnet101: https://download.pytorch.org/models/resnet101-5d3b4d8f.pth
 -resnext50_32x4d: 'https://download.pytorch.org/models/resnext50_32x4d-7cdf4587.pth
 -resnext101_32x8d: 'https://download.pytorch.org/models/resnext101_32x8d-8ba56ff5.pth
